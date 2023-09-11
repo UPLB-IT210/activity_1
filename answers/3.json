@@ -1,0 +1,19 @@
+{
+  "q": "What are the parts of an HTTP Request?",
+  "a" : "HTTP request is a piece of information from the client to the server, including a URL, header, method, and body.",
+  "time": "1 min",
+  "author": {
+    "name": "John Kenneth Abella",
+    "image": "./assets/img/pix.png"
+  },
+  "banner": {
+    "image": "./assets/img/httpParts.webp"
+  },
+  "sources" : [
+    {
+      "title" : "https://www.realisable.co.uk/support/documentation/iman-user-guide/DataConcepts/WebRequestAnatomy.htm",
+      "url" : "https://www.realisable.co.uk/support/documentation/iman-user-guide/DataConcepts/WebRequestAnatomy.htm"
+    }
+  ],
+  "code": 1
+}

@@ -1,0 +1,22 @@
+{
+  "q": "What are HTTP Status Codes and what is their role in client-server communication?",
+  "a" : "HTTP header codes are essential to monitor the current status of the request. HTTP codes can be categorized as follows:\n\n* 1xx - Informational\n* 2xx - Success\n* 3xx - Redirection\n* 4xx - Client Error\n* 5xx - Server Error\n\n\nBelow is the full list of HTTP codes that you may find in different websites.",
+  "time": "6 min",
+  "author": {
+    "name": "John Kenneth Abella",
+    "image": "./assets/img/pix.png"
+  },
+  "banner": {
+    "image": "./assets/img/httpCodes.png"
+  },
+  "sources" : [
+    {
+      "title" : "https://oxylabs.io/blog/http-headers-explained",
+      "url" : "https://oxylabs.io/blog/http-headers-explained"
+    }, {
+      "title" : "https://www.restapitutorial.com/httpstatuscodes.html",
+      "url" : "https://www.restapitutorial.com/httpstatuscodes.html"
+    }
+  ],
+  "code": 1
+}

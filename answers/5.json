@@ -1,0 +1,19 @@
+{
+  "q": "What are HTTP Headers and what is their role in client-server communication?",
+  "a" : "The purpose of HTTP headers is for the bilateral transfer of information, which is structured according to the format specified in a request header. With HTTP headers, the layout of a website or its resources is presented to a user according to their requirement, precisely the machine information specified inside the request header.Website security can also be strengthened by adding some information in the HTTP headers, and here are some of the most common HTTP headers that allow you to secure your web applications:\n\n* Content-Security-Policy header- provides an additional layer of security. It helps prevent attacks, including cross-site scripting (XSS) and code injection attacks. The policy defines approved content sources and allows the browser to load them.\n\n* Feature-Policy header- either allows or denies the use of the browser in its own frame and content within iframe elements.\n\n* X-Frame-Options header- protects website visitors from clickjacking attacks.\n\n* X-XSS-Protection header- used to configure the built-in reflective XSS protection. It is in Chrome, Internet Explorer, and Safari (Webkit).\n\n* Referrer-Policy header- controls how much referrer information, sent via the Referrer header, should be included with requests.\n\n* X-Content-Type-Options response header - is a marker used by the server. This marker indicates that the MIME types advertised in the Content-Type headers should be followed, not changed.",
+  "time": "6 min",
+  "author": {
+    "name": "John Kenneth Abella",
+    "image": "./assets/img/pix.png"
+  },
+  "banner": {
+    "image": "./assets/img/httpHeaders.webp"
+  },
+  "sources" : [
+    {
+      "title" : "https://oxylabs.io/blog/http-headers-explained",
+      "url" : "https://oxylabs.io/blog/http-headers-explained"
+    }
+  ],
+  "code": 1
+}

@@ -1,0 +1,19 @@
+{
+  "q": "What are the parts of an HTTP Response?",
+  "a" : "HTTP responses are sent by a web server containing the code status of the request, headers, and response message body. Illustrated below is the sample response body from a particular website.",
+  "time": "1 min",
+  "author": {
+    "name": "John Kenneth Abella",
+    "image": "./assets/img/pix.png"
+  },
+  "banner": {
+    "image": "./assets/img/httpResponse.png"
+  },
+  "sources" : [
+    {
+      "title" : "https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html",
+      "url" : "https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html"
+    }
+  ],
+  "code": 1
+}

@@ -1,0 +1,23 @@
+{
+  "q": "What is HTTPS and how does it differ from HTTP?",
+  "a" : "HTTPS stands for Hypertext Transfer Protocol Secure, which is an extension of the original HTTP.The main purpose of this extension is to add a layer of encryption for all the information originating or coming to the network to prevent eavesdropping and mitigate the risks of cyber attacks. In essence, It provides better security for all the users in the webspace.\n\nThe original specification of HTTP uses plain text to transmit and receive information over the network, which could lead to higher risks of getting hacked by cybercriminals. But with ”HTTPS”, a handshake must be established first and a valid certificate must be shared by the server to the browser before any transmission will be made.",
+  "time": "5 mins",
+  "author": {
+    "name": "John Kenneth Abella",
+    "image": "./assets/img/pix.png"
+  },
+  "banner": {
+    "image": "./assets/img/httpsIcon.webp"
+  },
+  "sources" : [
+    {
+      "title" : "https://www.techtarget.com/searchsoftwarequality/definition/HTTPS",
+      "url" : "https://www.techtarget.com/searchsoftwarequality/definition/HTTPS"
+    },
+    {
+      "title" : "https://cyberhoot.com/cybrary/secure-socket-layer-ssl/",
+      "url" : "https://cyberhoot.com/cybrary/secure-socket-layer-ssl/"
+    }
+  ],
+  "code": 1
+}

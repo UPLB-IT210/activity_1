@@ -1,7 +1,7 @@
 {
   "q": "What is HTTP?",
-  "a" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \n Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \n\n Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-  "time": "5 mins",
+  "a" : "HTTP stands for HyperText Transfer Protocol, a set of rules used by computers for communication over the World Wide Web. This protocol allows the exchange of data between client and a web server via TCP (Transmission Control Protocol) within a period of time.\n\nConnecting to the server via this protocol is relatively straightforward using a browser. By placing “http://“ or ”https://“ at the beginning of the URL, a connection can be established and a request can then be made.  The image below illustrates how the protocol works in a typical client-server infrastructure.",
+  "time": "3 mins",
   "author": {
     "name": "John Kenneth Abella",
     "image": "./assets/img/pix.png"
@@ -11,12 +11,8 @@
   },
   "sources" : [
     {
-      "title" : "http://localhost/it_238/activity_1/",
-      "url" : "http://localhost/it_238/activity_1/"
-    },
-    {
-      "title" : "http://localhost/it_238/activity_1/",
-      "url" : "http://localhost/it_238/activity_1/"
+      "title" : "https://www.smarty.com/articles/what-is-http",
+      "url" : "https://www.smarty.com/articles/what-is-http"
     }
   ],
   "code": 1

@@ -2,7 +2,7 @@ window.document.addEventListener('DOMContentLoaded', () => {
     const Questions = [
       {
         q: "What is HTTP?",
-        time: "5 mins",
+        time: "3 mins",
         author: {
           name: "John Kenneth Abella",
           image: "./assets/img/pix.png"
@@ -34,7 +34,7 @@ window.document.addEventListener('DOMContentLoaded', () => {
           image: "./assets/img/pix.png"
         },
         banner: {
-          image: "./assets/img/http.png"
+          image: "./assets/img/httpParts.webp"
         },
         url: "./answer.html",
         code: 3
@@ -47,20 +47,20 @@ window.document.addEventListener('DOMContentLoaded', () => {
           image: "./assets/img/pix.png"
         },
         banner: {
-          image: "./assets/img/http.png"
+          image: "./assets/img/httpResponse.png"
         },
         url: "./answer.html",
         code: 4
       },
       {
         q: "What are HTTP Headers and what is their role in client-server communication?",
-        time: "5 mins",
+        time: "6 mins",
         author: {
           name: "John Kenneth Abella",
           image: "./assets/img/pix.png"
         },
         banner: {
-          image: "./assets/img/http.png"
+          image: "./assets/img/httpHeaders.webp"
         },
         url: "./answer.html",
         code: 5
