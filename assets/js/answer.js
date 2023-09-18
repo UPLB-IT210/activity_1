@@ -22,6 +22,17 @@
             }, 100)
           },700)
         }
+      } else {
+        // show animation
+        progressBar.style.width = "100%"
+        setTimeout(() => {
+          progressBar.style.display = "none"
+          progressBar.style.width = '0%'
+          setTimeout(() => {
+            progressBar.style.display = "block"
+          }, 100)
+        },700)
+        
       }
     })
 
